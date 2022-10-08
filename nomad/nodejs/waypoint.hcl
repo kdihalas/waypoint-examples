@@ -17,7 +17,7 @@ app "nomad-nodejs-web" {
     use "nomad" {
       // these options both default to the values shown, but are left here to
       // show they are configurable
-      datacenter = "dc1"
+      datacenter = "fr1"
       namespace  = "default"
     }
   }
